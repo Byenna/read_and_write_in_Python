@@ -1,7 +1,7 @@
 # read_and_write_in_Python
 Exercise to read from and write to files in Python
 
-Certainly! Here's a simple exercise that will help you practice reading and writing files in Python:
+Here's a simple exercise that will help you practice reading and writing files in Python:
 Exercise:
 1. Create a new text file called "guests.txt" and write the names of three guests in separate lines.
    For example, the contents of "guests.txt" could be:
